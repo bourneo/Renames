@@ -10,8 +10,7 @@ a little FileTools By Swing
 
 ![Alt text](https://github.com/bournev/Renames/blob/master/%E5%88%97%E6%96%87%E4%BB%B6%E5%90%8D.png)
 
-# Screenshot
 
-![Alt text](https://github.com/revir/FairyDict/raw/master/readme_images/4.png)
-![Alt text](https://github.com/revir/FairyDict/raw/master/readme_images/3.png)
-![Alt text](https://github.com/revir/FairyDict/raw/master/readme_images/2.png)
+
+(https://github.com/revir/FairyDict/raw/master/readme_images/4.png)
+
