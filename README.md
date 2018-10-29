@@ -1,6 +1,6 @@
 # Renames
 
-a little FileTools By Swing
+A little file tool coded in Java and Swing
 
 # Screenshot
 
