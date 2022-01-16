@@ -2,6 +2,8 @@
 
 A little file tool coded in Java and Swing
 
+based on Java 8
+
 # Screenshot
 
 ![Alt text](https://github.com/bournev/Renames/blob/master/pictures/%E6%96%87%E6%9C%AC%E6%9B%BF%E6%8D%A2.png)
